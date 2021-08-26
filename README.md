@@ -12,16 +12,16 @@
 2. Install dependencies.
 
    ```sh
-   npm install
+   yarn
    ```
 
 3. Build the production server.
 
    ```sh
-   npm build
+   yarn run build
    ```
 
 4. Run the server.
    ```sh
-   npm start
+   yarn run start
    ```
